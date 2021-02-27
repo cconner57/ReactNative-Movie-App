@@ -1,20 +1,22 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import Banner from './components/Banner';
+import AppNavigator from './navigation/AppNavigator';
+import AppLoading from 'expo-app-loading';
+import { useFonts } from 'expo-font';
 
 export default function App() {
-	return (
-		<View style={styles.container}>
-			<Text>Open up App.js to start working on your app!</Text>
-		</View>
-	);
-}
+	let [fontsLoaded] = useFonts({
+		Jost: require('./assets/fonts/Jost-VariableFont_wght.ttf'),
+	});
 
-const styles = StyleSheet.create({
-	container: {
-		flex: 1,
-		backgroundColor: '#fff',
-		alignItems: 'center',
-		justifyContent: 'center',
-	},
-});
+	if (!fontsLoaded) {
+		return <AppLoading />;
+	} else {
+		return (
+			<>
+				<Banner />
+				<AppNavigator />
+			</>
+		);
+	}
+}
