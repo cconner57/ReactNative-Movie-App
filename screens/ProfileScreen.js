@@ -2,20 +2,23 @@ import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
 
 const ProfileScreen = () => {
-    return (
-        <View style={styles.container}>
-			<Text>Profile Screen</Text>
+	return (
+		<View style={styles.container}>
+			<Text style={styles.text}>Profile Screen</Text>
 		</View>
-    )
-}
+	);
+};
 
-export default ProfileScreen
+export default ProfileScreen;
 
 const styles = StyleSheet.create({
 	container: {
 		flex: 1,
-		backgroundColor: '#fff',
+		backgroundColor: 'hsl(229, 17%, 13%)',
 		alignItems: 'center',
 		justifyContent: 'center',
+	},
+	text: {
+		color: '#fff',
 	},
 });

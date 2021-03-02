@@ -11,7 +11,7 @@ const Banner = () => {
 			/>
 			<Image
 				style={styles.logo}
-				source={ require('../assets/Movie-Atlas-Logo.png')}
+				source={require('../assets/Movie-Atlas-Logo.png')}
 			/>
 			<Ionicons name='search' size={28} color='hsl(0,0%,100%)' />
 		</View>
@@ -29,8 +29,12 @@ const styles = StyleSheet.create({
 		flexDirection: 'row',
 		alignItems: 'center',
 		justifyContent: 'space-between',
-		borderBottomWidth: 1,
 		backgroundColor: 'hsl(229, 17%, 13%)',
+		shadowColor: 'hsl(0,0%,80%)',
+		shadowOffset: { width: 0, height: 5 },
+		shadowOpacity: .5,
+		shadowRadius: 12,
+		zIndex: 10,
 	},
 	logo: {
 		height: 25,
