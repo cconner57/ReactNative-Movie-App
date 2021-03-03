@@ -2,308 +2,410 @@
 	"january": [
 		{
 			"id": 1,
+			"media": "Movie",
 			"title": "17 Again (2009)",
 			"description": "Zac Efron stars in the comedy movie where one man gets to relive his youth.",
+			"rating": "3.2",
 			"release": "January 1st"
 		},
 		{
 			"id": 2,
+			"media": "Movie",
 			"title": "30 Minutes or Less (2011)",
 			"description": "Comedy featuring Jesse Eisenberg and Aziz Ansari.",
+			"rating": "3.05",
 			"release": "January 1st"
 		},
 		{
 			"id": 3,
+			"media": "TV Series",
 			"title": "Abby Hatcher (Season 1)",
 			"description": "",
+			"rating": "3.45",
 			"release": "January 1st"
 		},
 		{
 			"id": 4,
+			"media": "Movie",
 			"title": "Blue Streak (1999)",
 			"description": "",
+			"rating": "3.15",
 			"release": "January 1st"
 		},
 		{
 			"id": 5,
+			"media": "Movie",
 			"title": "Bonnie and Clyde (1967)",
 			"description": "",
+			"rating": "3.8",
 			"release": "January 1st"
 		},
 		{
 			"id": 6,
+			"media": "Movie",
 			"title": "Can't Hardly Wait (1998)",
 			"description": "",
+			"rating": "3.25",
 			"release": "January 1st"
 		},
 		{
 			"id": 7,
+			"media": "Movie",
 			"title": "Catch Me If You Can (2002)",
 			"description": "",
+			"rating": "4.2",
 			"release": "January 1st"
 		},
 		{
 			"id": 8,
+			"media": "Movie",
 			"title": "Cloudy with a Chance of Meatballs (2009)",
 			"description": "",
+			"rating": "3.45",
 			"release": "January 1st"
 		},
 		{
 			"id": 9,
+			"media": "TV Series",
 			"title": "Cobra Kai (Season 3)",
 			"description": "",
+			"rating": "4.3",
 			"release": "January 1st"
 		},
 		{
 			"id": 10,
+			"media": "Movie",
 			"title": "Cool Hand Luke (1967)",
 			"description": "",
+			"rating": "4.05",
 			"release": "January 1st"
 		},
 		{
 			"id": 11,
+			"media": "TV Series",
 			"title": "Dream Home Makeover (Season 2)",
 			"description": "",
+			"rating": "2.75",
 			"release": "January 1st"
 		},
 		{
 			"id": 12,
+			"media": "Movie",
 			"title": "Eddie Murphy: Raw (1987)",
 			"description": "",
+			"rating": "3.85",
 			"release": "January 1st"
 		},
 		{
 			"id": 13,
+			"media": "Movie",
 			"title": "Enter the Dragon (1973)",
 			"description": "",
+			"rating": "3.85",
 			"release": "January 1st"
 		},
 		{
 			"id": 14,
+			"media": "Movie",
 			"title": "Four Christmases (2008)",
 			"description": "",
+			"rating": "2.85",
 			"release": "January 1st"
 		},
 		{
 			"id": 15,
+			"media": "Movie",
 			"title": "Fred Claus (2007)",
 			"description": "",
+			"rating": "2.8",
 			"release": "January 1st"
 		},
 		{
 			"id": 16,
+			"media": "Movie",
 			"title": "Full Out 2: You Got This! (2020)",
 			"description": "",
+			"rating": "2.3",
 			"release": "January 1st"
 		},
 		{
 			"id": 17,
+			"media": "Movie",
 			"title": "Gimme Shelter (2013)",
 			"description": "",
+			"rating": "3.25",
 			"release": "January 1st"
 		},
 		{
 			"id": 18,
+			"media": "Movie",
 			"title": "Good Hair (2009)",
 			"description": "",
+			"rating": "3.45",
 			"release": "January 1st"
 		},
 		{
 			"id": 19,
+			"media": "Movie",
 			"title": "Goodfellas (1990)",
 			"description": "",
+			"rating": "4.35",
 			"release": "January 1st"
 		},
 		{
 			"id": 20,
+			"media": "Movie",
 			"title": "Gothika (2003)",
 			"description": "",
+			"rating": "2.9",
 			"release": "January 1st"
 		},
 		{
 			"id": 21,
+			"media": "TV Series",
 			"title": "Headspace Guide to Meditation (Season 1)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 22,
+			"media": "Movie",
 			"title": "Into the Wild (2007)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 23,
+			"media": "TV Series",
 			"title": "Jenni Rivera: Mariposa de Barrio (Season 1)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 24,
+			"media": "Movie",
 			"title": "Julie & Julia (2009)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 25,
+			"media": "Movie",
 			"title": "London Heist (2017)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 26,
+			"media": "TV Series",
 			"title": "Monarca (Season 2)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 27,
+			"media": "Movie",
 			"title": "Mud (2012)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 28,
+			"media": "Movie",
 			"title": "Mystic Pizza (1988)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 29,
+			"media": "TV Series",
 			"title": "Running Man (Season 1)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 30,
+			"media": "Movie",
 			"title": "Sex and the City: The Movie (2008)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 31,
+			"media": "Movie",
 			"title": "Sex and the City 2 (2010)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 32,
+			"media": "Movie",
 			"title": "Sherlock Holmes (2009)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 33,
+			"media": "Movie",
 			"title": "Striptease (1996)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 34,
+			"media": "Movie",
 			"title": "Superbad (2007)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 35,
+			"media": "Movie",
 			"title": "The Creative Brain (2019)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 36,
+			"media": "Movie",
 			"title": "The Departed (2006)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 37,
+			"media": "TV Series",
 			"title": "The Haunted Hathaways (Season 1-2)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 38,
+			"media": "Movie",
 			"title": "The Minimalists: Less Is Now (2021)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 39,
+			"media": "Movie",
 			"title": "The Naked Gun: From the Files of Police Squad! (1988)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 40,
+			"media": "Movie",
 			"title": "Unknown (2011)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 41,
+			"media": "Movie",
 			"title": "What's Eating Gilbert Grape (1993)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 42,
+			"media": "Movie",
 			"title": "What Happened to Mr. Cha? (2021)",
 			"description": "",
+			"rating": 5,
 			"release": "January 1st"
 		},
 		{
 			"id": 43,
+			"media": "Movie",
 			"title": "Asphalt Burning (2021)",
 			"description": "",
+			"rating": 5,
 			"release": "January 2nd"
 		},
 		{
 			"id": 44,
+			"media": "Movie",
 			"title": "The Netflix Afterparty (Cobra Kai Special)",
 			"description": "",
+			"rating": 5,
 			"release": "January 2nd"
 		},
 		{
 			"id": 45,
+			"media": "Movie",
 			"title": "Hello Brother (1999)",
 			"description": "",
+			"rating": 5,
 			"release": "January 2nd"
 		},
 		{
 			"id": 46,
+			"media": "TV Series",
 			"title": "Korean Pork Belly Rhapsody (Season 1)",
 			"description": "",
+			"rating": 5,
 			"release": "January 4th"
 		},
 		{
 			"id": 47,
+			"media": "TV Series",
 			"title": "Gabby's Dollhouse (Season 1)",
 			"description": "",
+			"rating": 5,
 			"release": "January 5th"
 		},
 		{
 			"id": 48,
+			"media": "TV Series",
 			"title": "LA's Finest (Season 1)",
 			"description": "",
+			"rating": 5,
 			"release": "January 5th"
 		},
 		{
 			"id": 49,
+			"media": "TV Series",
 			"title": "Nailed It! Mexico (Season 3)",
 			"description": "",
+			"rating": 5,
 			"release": "January 5th"
 		},
 		{
 			"id": 50,
+			"media": "Movie",
 			"title": "The Girl with the Dragon Tattoo (2011)",
 			"description": "",
+			"rating": 5,
 			"release": "January 5th"
 		},
 		{
 			"id": 51,
+			"media": "TV Series",
 			"title": "The History of Swear Words (Season 1)",
 			"description": "",
+			"rating": 5,
 			"release": "January 5th"
 		}
 	],
